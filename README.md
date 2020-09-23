@@ -1,4 +1,5 @@
 # perceptron
+[![Run on Repl.it](https://repl.it/badge/github/mashiachy/perceptron)](https://repl.it/github/mashiachy/perceptron)
 
 ## Project setup
 ```
@@ -19,6 +20,7 @@ npm run build
 ```
 npm run lint
 ```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
